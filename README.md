@@ -8,9 +8,10 @@
 5. [Data Dictionary](#-data-dictionary)
 6. [Tools & Technologies Used](#-tools--technologies-used)
 7. [Dashboard Preview](#-dashboard-preview)
-8. [Insight Generation](#-insight-generation)
-9. [Recommendations](#-recommendations)
-10. [How to Use](#-how-to-use)
+8. [Live Dashboard](YOUR_DASHBOARD_LINK)
+9. [Insight Generation](#-insight-generation)
+10. [Recommendations](#-recommendations)
+11. [How to Use](#-how-to-use)
 
 
 ##  <img width="70" height="50" alt="atliq-a-logo-04" src="https://github.com/user-attachments/assets/989aab88-8673-4b6e-9f1d-19c9e54a1bf7" /> About AtliQ Grands
@@ -156,7 +157,12 @@ Without a clear, data-driven understanding of these performance gaps, management
 -	**Improve Guest Satisfaction & Ratings**: Prioritise service quality upgrades for low-rated properties (≤3.0 average rating), especially in Hyderabad, Bangalore, and certain Mumbai properties, to strengthen         repeat bookings and brand trust.
 -	**Reduce Cancellations & No-Shows**: Implement flexible booking policies, targeted pre-stay engagement, and loyalty incentives to cut cancellation rates (>25% in multiple properties), which directly impact          revenue stability.
 -	**Optimise Pricing & Platform Efficiency**: Re-evaluate ADR strategy in cities with high ADR but low occupancy (<60%) to align pricing with demand, and improve conversion efficiency on weaker platforms like         “tripster” (Realisation % 69.83%).
+  
+---
 
+
+## 🔗 Live Dashboard  
+[Click here to view the live Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTAwZjFlOTYtMjU3ZC00MTcyLWE1MjgtZGYwOWI3ZDA3MTBiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ---
 
