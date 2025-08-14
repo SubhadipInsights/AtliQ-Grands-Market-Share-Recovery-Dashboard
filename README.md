@@ -148,7 +148,7 @@ Without a clear, data-driven understanding of these performance gaps, management
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Preview](dashboard_screenshot.png)
+![Dashboard Preview](https://github.com/SubhadipInsights/AtliQ-Grands-Market-Share-Recovery-Dashboard/blob/main/dashboard_preview.png)
 
 ## 💡 Recommendations
 -	**Boost Occupancy with Targeted Campaigns**: Launch weekend-focused promotions and corporate travel packages for business hotels to close the 3%+ occupancy gap between weekdays and weekends, while leveraging        underutilized capacity (DSRN up 8.24% WoW).
