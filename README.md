@@ -8,7 +8,7 @@
 5. [Data Dictionary](#-data-dictionary)
 6. [Tools & Technologies Used](#-tools--technologies-used)
 7. [Dashboard Preview](#-dashboard-preview)
-8. [Live Dashboard](YOUR_DASHBOARD_LINK)
+8. [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTAwZjFlOTYtMjU3ZC00MTcyLWE1MjgtZGYwOWI3ZDA3MTBiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 9. [Insight Generation](#-insight-generation)
 10. [Recommendations](#-recommendations)
 11. [How to Use](#-how-to-use)
